@@ -11,8 +11,8 @@
 //  Lasciando supabaseUrl vuoto l'app propone la modalita' DEMO.
 // =====================================================================
 window.INDIO_CONFIG = {
-  supabaseUrl: "",          // es. "https://abcdefghijkl.supabase.co"
-  supabaseKey: "",          // es. "sb_publishable_xxxxxxxxxxxxxxxxxxxx"
+  supabaseUrl: "https://ramccarlvdfhcudlrfvi.supabase.co",          // es. "https://abcdefghijkl.supabase.co"
+  supabaseKey: "sb_publishable_o5P6aATao8AX096n7Vc5-g_t8oWqG0F",          // es. "sb_publishable_xxxxxxxxxxxxxxxxxxxx"
   nomeStudio: "Indiotech",
   oreGiornaliere: 8         // ore di una giornata piena (per anelli e calendario)
 };
